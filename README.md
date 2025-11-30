@@ -2,9 +2,13 @@
 A data-driven analysis of Snitch Fashion’s e-commerce performance, covering sales trends, profitability, product categories, and customer segments. This project transforms raw data through cleaning, EDA, and visualization to uncover key business insights and strategy recommendations.
 📊 Snitch Fashion – E-Commerce Sales Analytics
 
-A Data Analytics Project (Phase-Wise Execution)
 #PROBLEM DEFINITION:
 The goal of this project is to analyze sales data from Snitch s Fashion, an online clothing retailer, to uncover insights into its sales performance, customer purchasing patterns, and product trends. The dataset contains uncleaned transactional records, and the analysis aims to transform this raw data into meaningful business intelligence
+
+
+A Data Analytics Project (Phase-Wise Execution)
+
+
 
 📌 Project Overview
 
