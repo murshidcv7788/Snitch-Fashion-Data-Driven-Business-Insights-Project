@@ -17,7 +17,7 @@ This project analyzes the sales performance of Snitch Fashion, an Indian e-comme
 The analysis includes Data Cleaning, EDA, Visualizations, Profitability Analysis, Correlation Study, and Final Reporting.
 
 🗂️ Project Phases
-🔹 Phase 1 – Data Cleaning
+🔹  Data Cleaning
 
 Removed duplicates
 
@@ -29,7 +29,7 @@ Cleaned product and category text formats
 
 Prepared final cleaned dataset
 
-🔹 Phase 2 – Exploratory Data Analysis (EDA)
+🔹 Exploratory Data Analysis (EDA)
 
 Performed visual and statistical analysis to understand:
 
@@ -45,7 +45,7 @@ Segment-wise behavior
 
 Discount distribution
 
-🔹 Phase 3 – Statistical & Business Analysis
+🔹  Statistical & Business Analysis
 
 Included:
 
@@ -59,7 +59,7 @@ Identification of high-volume & low-margin products
 
 Segmentation insights
 
-🔹 Phase 4 – Final Report & Presentation
+🔹 Final Report & Presentation
 
 Delivered:
 
